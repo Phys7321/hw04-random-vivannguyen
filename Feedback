@@ -1,2 +1,5 @@
 10.29
 I see you're about half done. I would say that you should look through your acceptance ratio - I don't know how you accept 9x more points than points?
+11.17
+Okay, now I like the acceptance ratio behavior, it's more in line with what I expected, though, I still don't see how you addressed the question of equilibration time. This IS a fuzzy concept, but I do want you to think through with python/MATLAB.
+(On problem 1, I don't know if I missed it or not, but the autocorrelation test appears to fail very badly, but you said it passed, why?)
